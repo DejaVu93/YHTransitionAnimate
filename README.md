@@ -1,11 +1,11 @@
 # YHTransitionAnimate
-## Custom transition animation (自定义转场动画)
+## 自定义转场动画 (Custom transition animation)
 
-### The sample picture (示例图片)
+示例图片(The sample picture)
 
 ![](https://github.com/DejaVu93/YHTransitionAnimate/blob/master/Untitled.gif?raw=true)
 
-### Method of use (使用方法)
+### 使用方法(Method of use)
 
 ```
 ProdDetailViewController *vc = [[ProdDetailViewController alloc] initWithTargetImageName:itemName];
