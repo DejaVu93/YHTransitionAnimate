@@ -27,20 +27,20 @@
 
 #pragma mark - UIViewControllerAnimatedTransitioning
 
-// 通常不需要覆盖使用
-// 如需更改动画时间则实现该方法
+// Usually no overwriting is required
+// Implement this method if you need to change the animation time
 - (NSTimeInterval)transitionDuration:(id <UIViewControllerContextTransitioning>)transitionContext {
     return self.duration;
 }
 
-// 子类实现方法
+// Subclass implementation method
 - (void)animateTransition:(id <UIViewControllerContextTransitioning>)transitionContext {
 #ifdef DEBUG
     NSLog(@"Subclass must override it if you want to make it works well.");
 #endif
 }
 
-// 通常不需要覆盖,除非在动画完成后需要做某事
+// Usually no overwriting is required, unless something needs to be done after the animation is complete
 - (void)animationEnded:(BOOL)transitionCompleted {
     // Now just do nothing.
 }

@@ -11,8 +11,8 @@
 
 @interface DemoListTransitionViewController () <DemoTableViewDelegate>
 
-@property (nonatomic,strong) DemoTableView *demoTableView;
-@property (nonatomic,strong) YHTransitionAnimate *pushTransitionAnimate;
+@property(nonatomic, strong) DemoTableView *demoTableView;
+@property(nonatomic, strong) YHTransitionAnimate *pushTransitionAnimate;
 
 @end
 
@@ -28,14 +28,14 @@
 
 #pragma amrk - DemoTableViewDelegate
 
-- (void)transTionAnimateConvention:(NSString *)itemName imageView:(UIImageView *)imageView {
+- (void)transitionAnimateConvention:(NSString *)itemName imageView:(UIImageView *)imageView {
     ProdDetailViewController *vc = [[ProdDetailViewController alloc] initWithTargetImageName:itemName];
     self.navigationController.yh_customAnimation = YES;
     self.pushTransitionAnimate = [[YHTransitionAnimate alloc] initWithPushed:^(UIViewController *fromVC, UIViewController *toVC, YHBaseTransitionAnimate *transition) {
         YHTransitionAnimate *move = (YHTransitionAnimate *) transition;
         move.targetClickedView = imageView;
         self.navigationController.yh_customAnimation = NO;
-    } poped:^(UIViewController *fromVC, UIViewController *toVC, YHBaseTransitionAnimate *transition) {
+    }                                                                  poped:^(UIViewController *fromVC, UIViewController *toVC, YHBaseTransitionAnimate *transition) {
     }];
     self.navigationController.delegate = self.pushTransitionAnimate;
     [self.navigationController pushViewController:vc animated:YES];
@@ -44,7 +44,7 @@
 
 #pragma mark - lazy loading
 
--(DemoTableView *)demoTableView {
+- (DemoTableView *)demoTableView {
     if (_demoTableView == nil) {
         _demoTableView = [[DemoTableView alloc] initWithFrame:CGRectMake(0, NavHeight, ScreenWidth, ScreenHeight - NavHeight) style:UITableViewStylePlain];
         _demoTableView.demoDelegate = self;

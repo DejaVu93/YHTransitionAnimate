@@ -6,8 +6,10 @@
 #import "DemoTableView.h"
 #import "ProdDetailViewController.h"
 
-@interface DemoTableView () <UITableViewDelegate,UITableViewDataSource>
-@property (nonatomic,strong)NSMutableArray *item;
+@interface DemoTableView () <UITableViewDelegate, UITableViewDataSource>
+
+@property(nonatomic, strong) NSMutableArray *item;
+
 @end
 
 @implementation DemoTableView
@@ -19,7 +21,7 @@ static const NSInteger count = 10;
 
 - (instancetype)initWithFrame:(CGRect)frame style:(UITableViewStyle)style {
     if ([super initWithFrame:frame style:style]) {
-       
+
         [self registerClass:[UITableViewCell class] forCellReuseIdentifier:identifier];
         self.delegate = self;
         self.dataSource = self;
@@ -39,29 +41,29 @@ static const NSInteger count = 10;
 
 - (UITableViewCell *)tableView:(UITableView *)tableView cellForRowAtIndexPath:(NSIndexPath *)indexPath {
     UITableViewCell *cell = [tableView dequeueReusableCellWithIdentifier:identifier];
-    cell.textLabel.text = self.item[indexPath.row];
-    cell.imageView.image = [UIImage imageNamed:self.item[indexPath.row]];
+    cell.textLabel.text = self.item[(NSUInteger) indexPath.row];
+    cell.imageView.image = [UIImage imageNamed:self.item[(NSUInteger) indexPath.row]];
     return cell;
 }
 
 - (void)tableView:(UITableView *)tableView didSelectRowAtIndexPath:(NSIndexPath *)indexPath {
     [tableView deselectRowAtIndexPath:indexPath animated:YES];
-    NSString *itemName = self.item[indexPath.row];
-    UITableViewCell *cell = (UITableViewCell *)[tableView cellForRowAtIndexPath:indexPath];
+    NSString *itemName = self.item[(NSUInteger) indexPath.row];
+    UITableViewCell *cell = (UITableViewCell *) [tableView cellForRowAtIndexPath:indexPath];
     UIImageView *image = cell.imageView;
-    if ([self.demoDelegate respondsToSelector:@selector(transTionAnimateConvention:imageView:)]) {
-        [self.demoDelegate transTionAnimateConvention:itemName imageView:image];
+    if ([self.demoDelegate respondsToSelector:@selector(transitionAnimateConvention:imageView:)]) {
+        [self.demoDelegate transitionAnimateConvention:itemName imageView:image];
     }
 }
 
 
 #pragma mark - lazy loading
 
--(NSMutableArray *)item {
-    if(_item == nil) {
+- (NSMutableArray *)item {
+    if (_item == nil) {
         _item = @[].mutableCopy;
         for (NSInteger j = 1; j < count; j++) {
-            [_item addObject:[NSString stringWithFormat:@"%@%ld",imgName,j]];
+            [_item addObject:[NSString stringWithFormat:@"%@%i", imgName, j]];
         }
     }
     return _item;

@@ -2,111 +2,16 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="1d32a7a3-e9d8-43d4-b164-aec213d15753" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/YHTransitionAnimate.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/xcode.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/YHTransitionAnimate/ConventionTransitionViewController.h" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/YHTransitionAnimate/ConventionTransitionViewController.m" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/YHTransitionAnimate/Home/HomeViewController.m" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/YHTransitionAnimate/Images.xcassets/AppIcon.appiconset/Contents.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/YHTransitionAnimate/Images.xcassets/AppIcon.appiconset/icon-1024.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/YHTransitionAnimate/Images.xcassets/AppIcon.appiconset/icon-20-ipad.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/YHTransitionAnimate/Images.xcassets/AppIcon.appiconset/icon-20@2x-ipad.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/YHTransitionAnimate/Images.xcassets/AppIcon.appiconset/icon-20@2x.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/YHTransitionAnimate/Images.xcassets/AppIcon.appiconset/icon-20@3x.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/YHTransitionAnimate/Images.xcassets/AppIcon.appiconset/icon-29-ipad.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/YHTransitionAnimate/Images.xcassets/AppIcon.appiconset/icon-29.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/YHTransitionAnimate/Images.xcassets/AppIcon.appiconset/icon-29@2x-ipad.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/YHTransitionAnimate/Images.xcassets/AppIcon.appiconset/icon-29@2x.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/YHTransitionAnimate/Images.xcassets/AppIcon.appiconset/icon-29@3x.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/YHTransitionAnimate/Images.xcassets/AppIcon.appiconset/icon-40.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/YHTransitionAnimate/Images.xcassets/AppIcon.appiconset/icon-40@2x.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/YHTransitionAnimate/Images.xcassets/AppIcon.appiconset/icon-40@3x.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/YHTransitionAnimate/Images.xcassets/AppIcon.appiconset/icon-50.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/YHTransitionAnimate/Images.xcassets/AppIcon.appiconset/icon-50@2x.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/YHTransitionAnimate/Images.xcassets/AppIcon.appiconset/icon-57.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/YHTransitionAnimate/Images.xcassets/AppIcon.appiconset/icon-57@2x.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/YHTransitionAnimate/Images.xcassets/AppIcon.appiconset/icon-60@2x.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/YHTransitionAnimate/Images.xcassets/AppIcon.appiconset/icon-60@3x.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/YHTransitionAnimate/Images.xcassets/AppIcon.appiconset/icon-72.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/YHTransitionAnimate/Images.xcassets/AppIcon.appiconset/icon-72@2x.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/YHTransitionAnimate/Images.xcassets/AppIcon.appiconset/icon-76.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/YHTransitionAnimate/Images.xcassets/AppIcon.appiconset/icon-76@2x.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/YHTransitionAnimate/Images.xcassets/AppIcon.appiconset/icon-83.5@2x.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/YHTransitionAnimate/Images.xcassets/LaunchImage.launchimage/Contents.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/YHTransitionAnimate/Images.xcassets/LaunchImage.launchimage/Default-2436h.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/YHTransitionAnimate/Images.xcassets/LaunchImage.launchimage/Default-568h@2x~iphone.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/YHTransitionAnimate/Images.xcassets/LaunchImage.launchimage/Default-667h.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/YHTransitionAnimate/Images.xcassets/LaunchImage.launchimage/Default-736h.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/YHTransitionAnimate/Images.xcassets/LaunchImage.launchimage/Default-Landscape-2436h.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/YHTransitionAnimate/Images.xcassets/LaunchImage.launchimage/Default-Landscape-736h.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/YHTransitionAnimate/Images.xcassets/LaunchImage.launchimage/Default-Landscape-No-StatusBar@2x~ipad.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/YHTransitionAnimate/Images.xcassets/LaunchImage.launchimage/Default-Landscape-No-StatusBar~ipad.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/YHTransitionAnimate/Images.xcassets/LaunchImage.launchimage/Default-Landscape@2x~ipad.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/YHTransitionAnimate/Images.xcassets/LaunchImage.launchimage/Default-Landscape~ipad.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/YHTransitionAnimate/Images.xcassets/LaunchImage.launchimage/Default-No-StatusBar@2x~ipad.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/YHTransitionAnimate/Images.xcassets/LaunchImage.launchimage/Default-No-StatusBar~ipad.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/YHTransitionAnimate/Images.xcassets/LaunchImage.launchimage/Default-Portrait@2x~ipad.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/YHTransitionAnimate/Images.xcassets/LaunchImage.launchimage/Default-Portrait~ipad.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/YHTransitionAnimate/Images.xcassets/LaunchImage.launchimage/Default@2x~iphone.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/YHTransitionAnimate/Images.xcassets/LaunchImage.launchimage/Default~iphone.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/YHTransitionAnimate/Images.xcassets/demoImage/Contents.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/YHTransitionAnimate/Images.xcassets/demoImage/demoImage1.imageset/Contents.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/YHTransitionAnimate/Images.xcassets/demoImage/demoImage1.imageset/demoImage1@2x.jpeg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/YHTransitionAnimate/Images.xcassets/demoImage/demoImage2.imageset/Contents.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/YHTransitionAnimate/Images.xcassets/demoImage/demoImage2.imageset/demoImage2@2x.jpeg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/YHTransitionAnimate/Images.xcassets/demoImage/demoImage3.imageset/Contents.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/YHTransitionAnimate/Images.xcassets/demoImage/demoImage3.imageset/demoImage3@2x.jpeg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/YHTransitionAnimate/Images.xcassets/demoImage/demoImage4.imageset/Contents.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/YHTransitionAnimate/Images.xcassets/demoImage/demoImage4.imageset/demoImage4@2x.jpeg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/YHTransitionAnimate/Images.xcassets/demoImage/demoImage5.imageset/Contents.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/YHTransitionAnimate/Images.xcassets/demoImage/demoImage5.imageset/demoImage5@2x.jpeg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/YHTransitionAnimate/Images.xcassets/demoImage/demoImage6.imageset/Contents.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/YHTransitionAnimate/Images.xcassets/demoImage/demoImage6.imageset/demoImage6@2x.jpeg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/YHTransitionAnimate/Images.xcassets/demoImage/demoImage7.imageset/Contents.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/YHTransitionAnimate/Images.xcassets/demoImage/demoImage7.imageset/demoImage7@2x.jpeg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/YHTransitionAnimate/Images.xcassets/demoImage/demoImage8.imageset/Contents.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/YHTransitionAnimate/Images.xcassets/demoImage/demoImage8.imageset/demoImage8@2x.jpeg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/YHTransitionAnimate/Images.xcassets/demoImage/demoImage9.imageset/Contents.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/YHTransitionAnimate/Images.xcassets/demoImage/demoImage9.imageset/demoImage9@2x.jpeg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/YHTransitionAnimate/NavigationTransitionViewController.h" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/YHTransitionAnimate/NavigationTransitionViewController.m" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/YHTransitionAnimate/YHPrefixHeader.pch" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/YHTransitionAnimate/YHtransition/UINavigationController+pushingStatus.h" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/YHTransitionAnimate/YHtransition/UINavigationController+pushingStatus.m" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/YHTransitionAnimate/YHtransition/UIViewController+YHMoveTransition.h" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/YHTransitionAnimate/YHtransition/UIViewController+YHMoveTransition.m" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/YHTransitionAnimate/YHtransition/YHBaseTransitionAnimate.h" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/YHTransitionAnimate/YHtransition/YHBaseTransitionAnimate.m" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/YHTransitionAnimate/YHtransition/YHNavigationController.h" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/YHTransitionAnimate/YHtransition/YHNavigationController.m" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/YHTransitionAnimate/YHtransition/YHTransitionAnimate.h" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/YHTransitionAnimate/YHtransition/YHTransitionAnimate.m" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/YHTransitionAnimate/handler/AppConst.h" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/YHTransitionAnimate/handler/AppStateHandler.h" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/YHTransitionAnimate/handler/AppStateHandler.m" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/YHTransitionAnimate/language/YHLanguage.h" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/YHTransitionAnimate/language/YHLanguage.m" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/YHTransitionAnimate/language/en.lproj/Localizable.strings" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/YHTransitionAnimate/language/zh-Hans.lproj/Localizable.strings" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/YHTransitionAnimate/view/HomeTableView.h" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/YHTransitionAnimate/view/HomeTableView.m" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/YHTransitionAnimate.xcodeproj/project.pbxproj" beforeDir="false" afterPath="$PROJECT_DIR$/YHTransitionAnimate.xcodeproj/project.pbxproj" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/YHTransitionAnimate.xcodeproj/xcuserdata/BlackHumor.xcuserdatad/xcschemes/xcschememanagement.plist" beforeDir="false" afterPath="$PROJECT_DIR$/YHTransitionAnimate.xcodeproj/xcuserdata/BlackHumor.xcuserdatad/xcschemes/xcschememanagement.plist" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/YHTransitionAnimate/AppDelegate.h" beforeDir="false" afterPath="$PROJECT_DIR$/YHTransitionAnimate/AppDelegate.h" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/YHTransitionAnimate/AppDelegate.m" beforeDir="false" afterPath="$PROJECT_DIR$/YHTransitionAnimate/AppDelegate.m" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/YHTransitionAnimate/Assets.xcassets/AppIcon.appiconset/Contents.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/YHTransitionAnimate/Assets.xcassets/Contents.json" beforeDir="false" afterPath="$PROJECT_DIR$/YHTransitionAnimate/Images.xcassets/Contents.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/YHTransitionAnimate/Base.lproj/LaunchScreen.storyboard" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/YHTransitionAnimate/Base.lproj/Main.storyboard" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/YHTransitionAnimate/Info.plist" beforeDir="false" afterPath="$PROJECT_DIR$/YHTransitionAnimate/Info.plist" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/YHTransitionAnimate/ViewController.h" beforeDir="false" afterPath="$PROJECT_DIR$/YHTransitionAnimate/Home/HomeViewController.h" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/YHTransitionAnimate/ViewController.m" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/YHTransitionAnimate/main.m" beforeDir="false" afterPath="$PROJECT_DIR$/YHTransitionAnimate/main.m" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/YHTransitionAnimate/YHtransition/UIViewController+YHMoveTransition.h" beforeDir="false" afterPath="$PROJECT_DIR$/YHTransitionAnimate/YHtransition/UIViewController+YHMoveTransition.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/YHTransitionAnimate/YHtransition/YHBaseTransitionAnimate.h" beforeDir="false" afterPath="$PROJECT_DIR$/YHTransitionAnimate/YHtransition/YHBaseTransitionAnimate.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/YHTransitionAnimate/YHtransition/YHBaseTransitionAnimate.m" beforeDir="false" afterPath="$PROJECT_DIR$/YHTransitionAnimate/YHtransition/YHBaseTransitionAnimate.m" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/YHTransitionAnimate/YHtransition/YHTransitionAnimate.h" beforeDir="false" afterPath="$PROJECT_DIR$/YHTransitionAnimate/YHtransition/YHTransitionAnimate.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/YHTransitionAnimate/demo/DemoListTransitionViewController.h" beforeDir="false" afterPath="$PROJECT_DIR$/YHTransitionAnimate/demo/DemoListTransitionViewController.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/YHTransitionAnimate/demo/DemoListTransitionViewController.m" beforeDir="false" afterPath="$PROJECT_DIR$/YHTransitionAnimate/demo/DemoListTransitionViewController.m" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/YHTransitionAnimate/demo/ProdDetailViewController.m" beforeDir="false" afterPath="$PROJECT_DIR$/YHTransitionAnimate/demo/ProdDetailViewController.m" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/YHTransitionAnimate/demo/view/DemoTableView.h" beforeDir="false" afterPath="$PROJECT_DIR$/YHTransitionAnimate/demo/view/DemoTableView.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/YHTransitionAnimate/demo/view/DemoTableView.m" beforeDir="false" afterPath="$PROJECT_DIR$/YHTransitionAnimate/demo/view/DemoTableView.m" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -122,93 +27,93 @@
     <fileColor scope="Non-Project Files (Material Palenight)" color="2f2e43" />
   </component>
   <component name="FileEditorManager">
-    <leaf>
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/YHTransitionAnimate/NavigationTransitionViewController.h">
+        <entry file="file://$PROJECT_DIR$/YHTransitionAnimate/YHtransition/YHBaseTransitionAnimate.h">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="270">
-              <caret line="10" selection-start-line="10" selection-end-line="10" />
+            <state relative-caret-position="-30">
+              <caret line="32" column="4" selection-start-line="32" selection-start-column="4" selection-end-line="32" selection-end-column="4" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/YHTransitionAnimate/NavigationTransitionViewController.m">
+        <entry file="file://$PROJECT_DIR$/YHTransitionAnimate/YHtransition/YHTransitionAnimate.h">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="162">
-              <caret line="6" selection-start-line="6" selection-end-line="6" />
+            <state relative-caret-position="81">
+              <caret line="3" column="2" selection-start-line="3" selection-start-column="2" selection-end-line="3" selection-end-column="2" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/YHTransitionAnimate/YHPrefixHeader.pch">
+        <entry file="file://$PROJECT_DIR$/YHTransitionAnimate/YHtransition/YHTransitionAnimate.m">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="324">
-              <caret line="12" column="17" selection-start-line="12" selection-start-column="17" selection-end-line="12" selection-end-column="17" />
+            <state relative-caret-position="294">
+              <caret line="73" selection-end-line="75" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/YHTransitionAnimate/ConventionTransitionViewController.m">
+        <entry file="file://$PROJECT_DIR$/YHTransitionAnimate/demo/DemoListTransitionViewController.m">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="266">
+              <caret line="18" column="16" selection-start-line="18" selection-start-column="16" selection-end-line="18" selection-end-column="16" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/YHTransitionAnimate/demo/ProdDetailViewController.h">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="216">
+              <caret line="8" selection-start-line="8" selection-end-line="8" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/YHTransitionAnimate/demo/DemoListTransitionViewController.h">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="189">
-              <caret line="7" column="48" selection-start-line="7" selection-start-column="48" selection-end-line="7" selection-end-column="48" />
+              <caret line="7" selection-start-line="7" selection-end-line="7" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/YHTransitionAnimate/AppDelegate.m">
+        <entry file="file://$PROJECT_DIR$/YHTransitionAnimate/demo/ProdDetailViewController.m">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="189">
-              <caret line="8" column="17" selection-start-line="8" selection-start-column="17" selection-end-line="8" selection-end-column="17" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/YHTransitionAnimate/handler/AppConst.h">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="243">
-              <caret line="9" column="12" selection-start-line="9" selection-start-column="12" selection-end-line="9" selection-end-column="12" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/YHTransitionAnimate/handler/AppStateHandler.h">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="243">
-              <caret line="9" selection-start-line="9" selection-end-line="9" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/YHTransitionAnimate/handler/AppStateHandler.m">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="324">
-              <caret line="12" column="25" selection-start-line="12" selection-start-column="25" selection-end-line="12" selection-end-column="25" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/YHTransitionAnimate/language/YHLanguage.m">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="234">
-              <caret line="27" column="1" selection-start-line="27" selection-start-column="1" selection-end-line="27" selection-end-column="1" />
+            <state relative-caret-position="142">
+              <caret line="11" lean-forward="true" selection-start-line="11" selection-end-line="11" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/YHTransitionAnimate/language/YHLanguage.h">
+        <entry file="file://$PROJECT_DIR$/YHTransitionAnimate/demo/view/DemoTableView.h">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="270">
-              <caret line="10" column="32" lean-forward="true" selection-start-line="10" selection-start-column="32" selection-end-line="10" selection-end-column="32" />
+            <state relative-caret-position="-3">
+              <caret line="10" lean-forward="true" selection-start-line="10" selection-end-line="10" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/YHTransitionAnimate/demo/view/DemoTableView.m">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1728">
+              <caret line="65" column="62" selection-start-line="65" selection-start-column="62" selection-end-line="65" selection-end-column="62" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/YHTransitionAnimate/YHtransition/YHBaseTransitionAnimate.m">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-1029">
+              <caret line="43" selection-start-line="43" selection-end-line="43" />
             </state>
           </provider>
         </entry>
@@ -263,6 +168,15 @@
         <option value="$PROJECT_DIR$/YHTransitionAnimate/AppDelegate.m" />
         <option value="$PROJECT_DIR$/YHTransitionAnimate/handler/AppStateHandler.h" />
         <option value="$PROJECT_DIR$/YHTransitionAnimate/handler/AppStateHandler.m" />
+        <option value="$PROJECT_DIR$/YHTransitionAnimate/YHtransition/UIViewController+YHMoveTransition.h" />
+        <option value="$PROJECT_DIR$/YHTransitionAnimate/YHtransition/YHBaseTransitionAnimate.h" />
+        <option value="$PROJECT_DIR$/YHTransitionAnimate/YHtransition/YHBaseTransitionAnimate.m" />
+        <option value="$PROJECT_DIR$/YHTransitionAnimate/YHtransition/YHTransitionAnimate.h" />
+        <option value="$PROJECT_DIR$/YHTransitionAnimate/demo/DemoListTransitionViewController.m" />
+        <option value="$PROJECT_DIR$/YHTransitionAnimate/demo/ProdDetailViewController.m" />
+        <option value="$PROJECT_DIR$/YHTransitionAnimate/demo/DemoListTransitionViewController.h" />
+        <option value="$PROJECT_DIR$/YHTransitionAnimate/demo/view/DemoTableView.m" />
+        <option value="$PROJECT_DIR$/YHTransitionAnimate/demo/view/DemoTableView.h" />
       </list>
     </option>
   </component>
@@ -297,6 +211,19 @@
               <item name="" type="efc3779f:XcodeRootNode" />
               <item name="YHTransitionAnimate" type="1d218c8b:XcodeProjectNode" />
               <item name="YHTransitionAnimate" type="fcab9f18:XcodeViewNode" />
+              <item name="demo" type="fcab9f18:XcodeViewNode" />
+            </path>
+            <path>
+              <item name="" type="efc3779f:XcodeRootNode" />
+              <item name="YHTransitionAnimate" type="1d218c8b:XcodeProjectNode" />
+              <item name="YHTransitionAnimate" type="fcab9f18:XcodeViewNode" />
+              <item name="demo" type="fcab9f18:XcodeViewNode" />
+              <item name="view" type="fcab9f18:XcodeViewNode" />
+            </path>
+            <path>
+              <item name="" type="efc3779f:XcodeRootNode" />
+              <item name="YHTransitionAnimate" type="1d218c8b:XcodeProjectNode" />
+              <item name="YHTransitionAnimate" type="fcab9f18:XcodeViewNode" />
               <item name="handler" type="fcab9f18:XcodeViewNode" />
             </path>
             <path>
@@ -310,14 +237,7 @@
               <item name="" type="efc3779f:XcodeRootNode" />
               <item name="YHTransitionAnimate" type="1d218c8b:XcodeProjectNode" />
               <item name="YHTransitionAnimate" type="fcab9f18:XcodeViewNode" />
-              <item name="Home" type="fcab9f18:XcodeViewNode" />
-            </path>
-            <path>
-              <item name="" type="efc3779f:XcodeRootNode" />
-              <item name="YHTransitionAnimate" type="1d218c8b:XcodeProjectNode" />
-              <item name="YHTransitionAnimate" type="fcab9f18:XcodeViewNode" />
-              <item name="Home" type="fcab9f18:XcodeViewNode" />
-              <item name="view" type="fcab9f18:XcodeViewNode" />
+              <item name="YHtransition" type="fcab9f18:XcodeViewNode" />
             </path>
           </expand>
           <select />
@@ -389,17 +309,18 @@
       <workItem from="1550896744670" duration="184000" />
       <workItem from="1550904550533" duration="33000" />
       <workItem from="1550904645498" duration="66000" />
+      <workItem from="1550920315929" duration="267000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="5296000" />
+    <option name="totallyTimeSpent" value="5563000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1440" height="900" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.19313304" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.19599427" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Designer" order="2" />
       <window_info id="Favorites" order="3" side_tool="true" />
@@ -429,23 +350,13 @@
     <entry file="file:///Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIView.h">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/YHTransitionAnimate/Home/HomeViewController.h">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
+    <entry file="file://$PROJECT_DIR$/YHTransitionAnimate/Home/HomeViewController.h" />
     <entry file="file://$PROJECT_DIR$/YHTransitionAnimate/zh-Hans.lproj/File.strings" />
     <entry file="file://$PROJECT_DIR$/YHTransitionAnimate/zh-Hans.lproj/Localizable.strings" />
     <entry file="file://$PROJECT_DIR$/YHTransitionAnimate/PrefixHeader.pch" />
     <entry file="file://$PROJECT_DIR$/YHTransitionAnimate/en.lproj/Localizable.strings" />
-    <entry file="file://$PROJECT_DIR$/YHTransitionAnimate/Info.plist">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/YHTransitionAnimate/ConventionTransitionViewController.h">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="135">
-          <caret line="5" selection-start-line="5" selection-end-line="5" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/YHTransitionAnimate/Info.plist" />
+    <entry file="file://$PROJECT_DIR$/YHTransitionAnimate/ConventionTransitionViewController.h" />
     <entry file="file:///Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS.sdk/System/Library/Frameworks/UIKit.framework/Headers/UINavigationController.h">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="268">
@@ -470,61 +381,16 @@
     <entry file="file://$PROJECT_DIR$/YHTransitionAnimate/transition/YHNavigationController.m" />
     <entry file="file://$PROJECT_DIR$/YHTransitionAnimate/transition/YHTransitionAnimate.m" />
     <entry file="file://$PROJECT_DIR$/YHTransitionAnimate/transition/YHTransitionAnimate.h" />
-    <entry file="file://$PROJECT_DIR$/YHTransitionAnimate/Home/HomeViewController.m">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="243">
-          <caret line="11" column="9" selection-end-line="38" />
-          <folding>
-            <element signature="e#99#129#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/YHTransitionAnimate/view/HomeTableView.m">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="240">
-          <caret line="31" column="5" selection-start-line="31" selection-start-column="5" selection-end-line="31" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/YHTransitionAnimate/view/HomeTableView.h">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="189">
-          <caret line="7" selection-start-line="7" selection-end-line="7" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/YHTransitionAnimate/NavigationTransitionViewController.h">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="270">
-          <caret line="10" selection-start-line="10" selection-end-line="10" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/YHTransitionAnimate/NavigationTransitionViewController.m">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="162">
-          <caret line="6" selection-start-line="6" selection-end-line="6" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/YHTransitionAnimate/YHPrefixHeader.pch">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="324">
-          <caret line="12" column="17" selection-start-line="12" selection-start-column="17" selection-end-line="12" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/YHTransitionAnimate/ConventionTransitionViewController.m">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="189">
-          <caret line="7" column="48" selection-start-line="7" selection-start-column="48" selection-end-line="7" selection-end-column="48" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/YHTransitionAnimate/Home/HomeViewController.m" />
+    <entry file="file://$PROJECT_DIR$/YHTransitionAnimate/view/HomeTableView.m" />
+    <entry file="file://$PROJECT_DIR$/YHTransitionAnimate/view/HomeTableView.h" />
+    <entry file="file://$PROJECT_DIR$/YHTransitionAnimate/NavigationTransitionViewController.h" />
+    <entry file="file://$PROJECT_DIR$/YHTransitionAnimate/NavigationTransitionViewController.m" />
+    <entry file="file://$PROJECT_DIR$/YHTransitionAnimate/YHPrefixHeader.pch" />
+    <entry file="file://$PROJECT_DIR$/YHTransitionAnimate/ConventionTransitionViewController.m" />
     <entry file="file://$PROJECT_DIR$/YHTransitionAnimate/AppDelegate.m">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="189">
+        <state relative-caret-position="216">
           <caret line="8" column="17" selection-start-line="8" selection-start-column="17" selection-end-line="8" selection-end-column="17" />
         </state>
       </provider>
@@ -550,17 +416,107 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/YHTransitionAnimate/language/YHLanguage.m">
+    <entry file="file://$PROJECT_DIR$/YHTransitionAnimate/language/YHLanguage.h">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="234">
-          <caret line="27" column="1" selection-start-line="27" selection-start-column="1" selection-end-line="27" selection-end-column="1" />
+        <state relative-caret-position="297">
+          <caret line="11" selection-end-line="14" selection-end-column="4" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/YHTransitionAnimate/language/YHLanguage.h">
+    <entry file="file://$PROJECT_DIR$/YHTransitionAnimate/language/YHLanguage.m">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="270">
-          <caret line="10" column="32" lean-forward="true" selection-start-line="10" selection-start-column="32" selection-end-line="10" selection-end-column="32" />
+        <state relative-caret-position="234">
+          <caret line="27" column="1" selection-end-line="35" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/YHTransitionAnimate/YHtransition/UINavigationController+pushingStatus.h">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/YHTransitionAnimate/YHtransition/UINavigationController+pushingStatus.m">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="244">
+          <caret line="31" column="1" selection-start-line="31" selection-start-column="1" selection-end-line="31" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/YHTransitionAnimate/YHtransition/UIViewController+YHMoveTransition.h">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="159">
+          <caret line="15" lean-forward="true" selection-start-line="15" selection-end-line="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/YHTransitionAnimate/YHtransition/UIViewController+YHMoveTransition.m">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/YHTransitionAnimate/YHtransition/YHBaseTransitionAnimate.m">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1029">
+          <caret line="43" selection-start-line="43" selection-end-line="43" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/YHTransitionAnimate/YHtransition/YHBaseTransitionAnimate.h">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-30">
+          <caret line="32" column="4" selection-start-line="32" selection-start-column="4" selection-end-line="32" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/YHTransitionAnimate/YHtransition/YHTransitionAnimate.h">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="81">
+          <caret line="3" column="2" selection-start-line="3" selection-start-column="2" selection-end-line="3" selection-end-column="2" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/YHTransitionAnimate/YHtransition/YHTransitionAnimate.m">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="294">
+          <caret line="73" selection-end-line="75" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/YHTransitionAnimate/demo/DemoListTransitionViewController.h">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="189">
+          <caret line="7" selection-start-line="7" selection-end-line="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/YHTransitionAnimate/demo/DemoListTransitionViewController.m">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="266">
+          <caret line="18" column="16" selection-start-line="18" selection-start-column="16" selection-end-line="18" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/YHTransitionAnimate/demo/ProdDetailViewController.h">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="216">
+          <caret line="8" selection-start-line="8" selection-end-line="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/YHTransitionAnimate/demo/ProdDetailViewController.m">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="142">
+          <caret line="11" lean-forward="true" selection-start-line="11" selection-end-line="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/YHTransitionAnimate/demo/view/DemoTableView.m">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1728">
+          <caret line="65" column="62" selection-start-line="65" selection-start-column="62" selection-end-line="65" selection-end-column="62" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/YHTransitionAnimate/demo/view/DemoTableView.h">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-3">
+          <caret line="10" lean-forward="true" selection-start-line="10" selection-end-line="10" />
         </state>
       </provider>
     </entry>

@@ -24,13 +24,13 @@ typedef NS_ENUM(NSUInteger, YHTransitionMode) {
 @property(nonatomic, assign) NSTimeInterval duration;
 
 /**
- * 过渡动画模式
- * 默认:kBGTransitionPush
+ * Transition animation mode
+ * default:kBGTransitionPush
  */
 @property(nonatomic, assign) YHTransitionMode transitionMode;
 
 /**
- * push动画调用
+ * push animation call
  */
 @property(nonatomic, copy) YHTransitionPush animationPushedCallback;
 

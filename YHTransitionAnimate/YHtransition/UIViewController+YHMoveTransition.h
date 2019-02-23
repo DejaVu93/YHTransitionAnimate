@@ -15,7 +15,8 @@
 @property(nonatomic, strong, nullable) UIView *yh_targetClickView;
 
 /**
- *
+ * Need to bind the transition animation controller
+ * the subsequent improvement
  */
 @property(nonatomic, copy, nullable) NSString *yh_targetControllerName;
 

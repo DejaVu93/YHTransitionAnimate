@@ -6,15 +6,17 @@
 #import <UIKit/UIKit.h>
 
 NS_ASSUME_NONNULL_BEGIN
+
 @protocol DemoTableViewDelegate <NSObject>
 
 @optional
-- (void)transTionAnimateConvention:(NSString *)itemName imageView:(UIImageView *)imageView;
+- (void)transitionAnimateConvention:(NSString *)itemName imageView:(UIImageView *)imageView;
 
 @end
+
 @interface DemoTableView : UITableView
 
-@property (nonatomic,weak)id <DemoTableViewDelegate> demoDelegate;
+@property(nonatomic, weak) id <DemoTableViewDelegate> demoDelegate;
 
 @end
 
