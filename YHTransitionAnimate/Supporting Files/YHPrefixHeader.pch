@@ -1,0 +1,19 @@
+//
+//  YHPrefixHeader.pch
+//  YHTransitionAnimate
+//
+//  Created by BlackHumor on 2019/2/16.
+//  Copyright © 2019 BlackHat. All rights reserved.
+//
+
+#ifndef YHPrefixHeader_pch
+#define YHPrefixHeader_pch
+
+
+#import <UIKit/UIKit.h>
+#import "YHLanguage.h"
+#import "AppConst.h"
+#import "UIViewController+YHMoveTransition.h"
+#import "AppStateHandler.h"
+
+#endif /* YHPrefixHeader_pch */
