@@ -1,7 +1,5 @@
 # YHTransitionAnimate
-## custom transition animation
-
-
+## Custom transition animation
 
 ### The sample picture
 
