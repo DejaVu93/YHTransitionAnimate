@@ -26,16 +26,16 @@
         tempView.frame = [self.targetClickedView convertRect:self.targetClickedView.bounds toView:containerView];
         [containerView addSubview:toView];
         [containerView addSubview:tempView];
-        toView.alpha = 1.0;
-
+        toView.alpha = 0.0;
+        self.targetClickedView.alpha = 0.0;
         UIViewController *toVC = [transitionContext viewControllerForKey:UITransitionContextToViewControllerKey];
         toVC.yh_toTargetView.alpha = 0.0;
         UIViewController *fromVC = [transitionContext viewControllerForKey:UITransitionContextFromViewControllerKey];
         CGRect targetRect = [toVC.yh_toTargetView convertRect:toVC.yh_toTargetView.bounds toView:containerView];
         [UIView animateWithDuration:self.duration animations:^{
+            toView.alpha = 1.0;
             tempView.frame = targetRect;
         }                completion:^(BOOL finished) {
-            toView.alpha = 1.0;
             tempView.alpha = 0.0;
             toVC.yh_toTargetView.alpha = 1.0;
             fromVC.yh_targetClickView = nil;
@@ -61,6 +61,7 @@
             tempView.frame = originalRect;
         }                completion:^(BOOL finished) {
             toView.alpha = 1.0;
+            self.targetClickedView.alpha = 1;
             tempView.alpha = 0.0;
             [tempView removeFromSuperview];
             [transitionContext completeTransition:![transitionContext transitionWasCancelled]];

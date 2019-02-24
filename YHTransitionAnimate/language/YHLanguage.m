@@ -5,7 +5,6 @@
 
 #import "YHLanguage.h"
 
-
 @implementation YHLanguage
 
 static NSBundle *bundle = nil;
@@ -26,7 +25,6 @@ static NSString *lang = @"en";
     NSString *path = [[NSBundle mainBundle] pathForResource:l ofType:@"lproj"];
     bundle = [NSBundle bundleWithPath:path];
 }
-
 
 + (NSString *)get:(NSString *)key {
     return [bundle localizedStringForKey:key value:[NSString stringWithFormat:@"%@-%@", lang, key] table:nil];

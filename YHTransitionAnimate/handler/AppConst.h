@@ -13,7 +13,6 @@
 #define ScreenHeight ([[UIScreen mainScreen] bounds].size.height)
 
 #define iPhoneX ((ScreenHeight == 812.f || ScreenHeight == 896.f ) ? YES : NO)
-#define StatusBarHeight (iPhoneX ? 44.f : 20.f)
 #define NavHeight (iPhoneX ? 88.f : 64.f)
 
 #endif /* AppConst_h */

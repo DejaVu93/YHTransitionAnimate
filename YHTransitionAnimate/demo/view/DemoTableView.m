@@ -63,7 +63,7 @@ static const NSInteger count = 10;
     if (_item == nil) {
         _item = @[].mutableCopy;
         for (NSInteger j = 1; j < count; j++) {
-            [_item addObject:[NSString stringWithFormat:@"%@%i", imgName, j]];
+            [_item addObject:[NSString stringWithFormat:@"%@%li", imgName, (long)j]];
         }
     }
     return _item;
